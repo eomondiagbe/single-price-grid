@@ -1,0 +1,106 @@
+a{
+  margin-left: 42px;
+  padding-top: 50px;
+}
+
+body{
+  background-color: #e5eff5;
+  font-family: 'Karla', sans-serif;
+}
+
+h1{
+  color: white;
+  display: inline-block;
+  margin: auto auto 7px 30px;
+}
+
+h3{
+  color: #2ec2c0;
+  margin: 30px auto auto 30px;
+}
+
+h4{
+  color: white;
+  margin: 30px auto 15px 30px;
+}
+
+p{
+  color: 	#e5eff5;
+  font-size: 1rem;
+  margin: 0 auto 3px 30px;
+}
+
+.bottom-left-component{
+  background-color: #2ab2af;
+  border-radius: 0 0 0 10px;
+  height: 57%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 50%;
+}
+
+.bottom-right-component{
+  background-color: #2ec2c0;
+  border-radius: 0 0 10px 0;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  height: 57%;
+  width: 50%;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 13px;
+  background: #c0df34;
+  padding: 13px 90px 13px 90px;
+  position: absolute;
+  bottom: 27px;
+  text-decoration: none;
+}
+
+.gain-access-p{
+  color: #98a6bd;
+  line-height: 1.5;
+  width: 90%;
+}
+
+.main-component{
+  background-color: white;
+  border-radius: 10px;
+  position: absolute;
+  left: 27.5%;
+  top: 22.5%;
+  height: 55%;
+  margin: auto;
+  width: 45%;
+}
+
+.money-back{
+  color: #c0df34;
+  margin-bottom: 7px;
+  margin-top: 20px;
+}
+
+.per-month-p{
+  color: #e5eff5;
+  display: inline-block;
+  margin-left: 7px;
+  position: relative;
+  bottom: 5px;
+}
+
+.top-component{
+  border-radius: 10px 10px 0 0;
+  height: 45%;
+  width: 100%;
+}
+
+.why-us-p{
+  font-size: 0.813rem;
+}
